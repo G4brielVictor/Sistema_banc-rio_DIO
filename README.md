@@ -1,2 +1,2 @@
-# Sistema_banc-rio_DIO
+# Sistema bancário_DIO
 Um simples sistema bancário
